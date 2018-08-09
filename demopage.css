@@ -1,0 +1,14 @@
+.para{
+  font-size: 3rem;
+  color:red;
+  background-color: purple;
+}
+#firstdiv{
+  background-color: blue;
+}
+#seconddiv{
+  background-color:indigo;
+}
+#seconddiv img{
+  width: 50%;
+}
